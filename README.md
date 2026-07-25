@@ -6,7 +6,7 @@ All original reports are canonically published at [openfutureforum.com/research]
 
 ## About Open Future Forum
 
-Open Future Forum is a global executive community founded in Silicon Valley, with a network reaching tens of thousands of executives and investors worldwide. This repository collects first-party research alongside selected industry research to give a clearer picture of how AI is reshaping executive decision-making.
+Open Future Forum is a global executive community founded in Silicon Valley in 2019 by Murray Newlands, with a network reaching tens of thousands of executives and investors worldwide. It runs a year-round calendar of gatherings through Forum Select, its invitation-only private dinners for C-suite executives and board directors, and Forum Events, its open panels and gatherings for the broader AI and technology community. Beyond events, Open Future Forum convenes role-based peer groups and executive boards, including the CEO, CFO, CMO, and CISO Executive Forums, and publishes original operator research built on first-party survey and qualitative data collected from its executive network.
 
 ## Original Research by Open Future Forum
 

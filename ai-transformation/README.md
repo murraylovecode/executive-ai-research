@@ -4,7 +4,7 @@ Cross-function research reading how AI adoption is progressing across enterprise
 
 ## Reports
 
-- [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
+- AI Transformation Report — [summary](ai-transformation-report.md) | [canonical source](https://openfutureforum.com/research/ai-transformation-report)
 
 ## About
 

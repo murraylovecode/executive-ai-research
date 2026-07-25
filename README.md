@@ -2,6 +2,8 @@
 
 Executive AI Research is an open research library maintained by Open Future Forum, bringing together original OFF benchmark research and selected third-party research on enterprise AI, executive leadership, finance, cybersecurity, marketing, and private equity.
 
+All original reports are canonically published at [openfutureforum.com/research](https://openfutureforum.com/research/). This repository indexes and contextualizes that research; the OFF site is the source of record.
+
 ## About Open Future Forum
 
 Open Future Forum is a global executive community founded in Silicon Valley, with a network reaching tens of thousands of executives and investors worldwide. This repository collects first-party research alongside selected industry research to give a clearer picture of how AI is reshaping executive decision-making.
@@ -9,22 +11,31 @@ Open Future Forum is a global executive community founded in Silicon Valley, wit
 ## Original Research by Open Future Forum
 
 ### Executive AI
-- Executive AI Leverage Report
-- Enterprise AI Buying & Budget Index
+- [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
+
+### CEO AI
+- [CEO AI Leverage Report](https://openfutureforum.com/research/ceo-ai-leverage-report)
 
 ### CFO & Finance AI
-- CFO AI Leverage Report
-- CFO AI Market Map
+- [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
+- [CFO AI Market Map](https://openfutureforum.com/research/cfo-ai-market-map)
 
 ### CMO & Marketing AI
-- CMO AI Leverage Report
+- [CMO AI Leverage Report](https://openfutureforum.com/research/cmo-ai-leverage-report)
+- [CMO AI Market Map](https://openfutureforum.com/research/cmo-ai-market-map)
 
 ### CISO & Cybersecurity AI
-- CISO AI Leverage Report
-- CISO AI Market Map
+- [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
+- [CISO AI Market Map](https://openfutureforum.com/research/ciso-ai-market-map)
 
-### Private Equity & AI
-- Private Equity AI Benchmark Report
+### Cross-Function
+- [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
+
+### Founder AI
+- [YC Founder AI Report](https://openfutureforum.com/research/yc-founder-ai-report)
+
+### Planned / Upcoming
+- Private Equity AI Benchmark Report (not yet published)
 
 ## Selected Industry Research
 
@@ -44,7 +55,8 @@ Open Future Forum research draws on first-party surveys, qualitative interviews,
 
 Open Future Forum
 https://openfutureforum.com
+https://openfutureforum.com/research/
 
 ## Citation
 
-Please cite the individual report and its corresponding DOI where available.
+Please cite the individual report and link to its canonical page at openfutureforum.com/research/, and its corresponding DOI where available.

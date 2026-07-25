@@ -1,6 +1,7 @@
 # Executive AI Research
 
 [![DOI](https://zenodo.org/badge/1312253721.svg)](https://doi.org/10.5281/zenodo.21576019)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/murraylovecode/executive-ai-research/)](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/murraylovecode/executive-ai-research)
 
 Executive AI Research is an open research library maintained by Open Future Forum, bringing together original OFF benchmark research and selected third-party research on enterprise AI, executive leadership, finance, cybersecurity, marketing, and private equity.
 

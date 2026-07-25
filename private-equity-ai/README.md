@@ -1,16 +1,13 @@
 # Private Equity & AI Research
 
-Executive AI research focused on private equity firms, investors, and portfolio company operators, published by Open Future Forum.
+Planned research focused on private equity firms, investors, and portfolio company operators.
 
-## Reports
+## Status
 
-- Private Equity AI Benchmark Report
-
-## About
-
-This research draws on first-party surveys, interviews, and discussions with private equity investors and operating executives in the Open Future Forum network, covering AI adoption across portfolio companies and investment processes.
+Not yet published. This category is reserved for a future Open Future Forum report on AI adoption across private equity and portfolio operations. Check [openfutureforum.com/research](https://openfutureforum.com/research/) for the current list of published reports.
 
 ## Publisher
 
 Open Future Forum
 https://openfutureforum.com
+https://openfutureforum.com/research/

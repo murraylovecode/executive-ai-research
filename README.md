@@ -32,13 +32,13 @@ Curated summaries and links to third-party research relevant to executive AI ado
 
 ## Methodology
 
-Open Future Forum research draws on first-party surveys, qualitative interviews, executive discussions, and other data collected from its executive network. Full methodology notes are included with each report.
+Open Future Forum research draws on first-party surveys, qualitative interviews, executive discussions, and other data collected from its executive network. Full methodology notes are included with each report. Raw survey and respondent-level data is not published; only aggregated findings and summary statistics are shared.
 
 ## Repository Structure
 
 - `off-research/` - original Open Future Forum reports, organized by function
 - `industry-research/` - summaries and links to third-party research
-- `datasets/` - supporting data where available
+- `datasets/` - aggregated summary tables and methodology notes (no raw survey data)
 
 ## Publisher
 

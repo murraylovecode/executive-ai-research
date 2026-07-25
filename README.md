@@ -2,7 +2,7 @@
 
 Executive AI Research is an open research library maintained by Open Future Forum, bringing together original OFF benchmark research and selected third-party research on enterprise AI, executive leadership, finance, cybersecurity, marketing, and private equity.
 
-All original reports are canonically published at [openfutureforum.com/research](https://openfutureforum.com/research/). This repository indexes and contextualizes that research; the OFF site is the source of record.
+All original reports are canonically published at [openfutureforum.com/research](https://openfutureforum.com/research/). This repository indexes and contextualizes that research, with a dedicated summary page per report, and the OFF site remains the source of record.
 
 ## About Open Future Forum
 
@@ -11,28 +11,28 @@ Open Future Forum is a global executive community founded in Silicon Valley in 2
 ## Original Research by Open Future Forum
 
 ### Executive AI
-- [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
+- Executive AI Leverage Report — [summary](executive-ai/executive-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/executive-ai-leverage-report)
 
 ### CEO AI
-- [CEO AI Leverage Report](https://openfutureforum.com/research/ceo-ai-leverage-report)
+- CEO AI Leverage Report — [summary](ceo-ai/ceo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ceo-ai-leverage-report)
 
 ### CFO & Finance AI
-- [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
-- [CFO AI Market Map](https://openfutureforum.com/research/cfo-ai-market-map)
+- CFO AI Leverage Report — [summary](cfo-ai/cfo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-leverage-report)
+- CFO AI Market Map — [summary](cfo-ai/cfo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-market-map)
 
 ### CMO & Marketing AI
-- [CMO AI Leverage Report](https://openfutureforum.com/research/cmo-ai-leverage-report)
-- [CMO AI Market Map](https://openfutureforum.com/research/cmo-ai-market-map)
+- CMO AI Leverage Report — [summary](cmo-ai/cmo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-leverage-report)
+- CMO AI Market Map — [summary](cmo-ai/cmo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-market-map)
 
 ### CISO & Cybersecurity AI
-- [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
-- [CISO AI Market Map](https://openfutureforum.com/research/ciso-ai-market-map)
+- CISO AI Leverage Report — [summary](ciso-ai/ciso-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-leverage-report)
+- CISO AI Market Map — [summary](ciso-ai/ciso-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-market-map)
 
 ### Cross-Function
-- [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
+- AI Transformation Report — [summary](ai-transformation/ai-transformation-report.md) | [canonical source](https://openfutureforum.com/research/ai-transformation-report)
 
 ### Founder AI
-- [YC Founder AI Report](https://openfutureforum.com/research/yc-founder-ai-report)
+- YC Founder AI Report — [summary](yc-founder-ai/yc-founder-ai-report.md) | [canonical source](https://openfutureforum.com/research/yc-founder-ai-report)
 
 ### Planned / Upcoming
 - Private Equity AI Benchmark Report (not yet published)
@@ -47,7 +47,8 @@ Open Future Forum research draws on first-party surveys, qualitative interviews,
 
 ## Repository Structure
 
-- `off-research/` - original Open Future Forum reports, organized by function
+- `off-research/` - original Open Future Forum reports overview
+- `executive-ai/`, `ceo-ai/`, `cfo-ai/`, `cmo-ai/`, `ciso-ai/`, `ai-transformation/`, `yc-founder-ai/`, `private-equity-ai/` - per-category reports, each with a detailed summary page
 - `industry-research/` - summaries and links to third-party research
 - `datasets/` - aggregated summary tables and methodology notes (no raw survey data)
 

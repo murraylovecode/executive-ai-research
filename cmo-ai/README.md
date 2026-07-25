@@ -4,8 +4,8 @@ Executive AI research focused on CMOs, marketing leaders, and marketing function
 
 ## Reports
 
-- [CMO AI Leverage Report](https://openfutureforum.com/research/cmo-ai-leverage-report)
-- [CMO AI Market Map](https://openfutureforum.com/research/cmo-ai-market-map)
+- CMO AI Leverage Report — [summary](cmo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-leverage-report)
+- CMO AI Market Map — [summary](cmo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-market-map)
 
 ## About
 

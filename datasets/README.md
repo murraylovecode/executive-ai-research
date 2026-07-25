@@ -1,14 +1,18 @@
 # Datasets
 
-Supporting data for Open Future Forum research reports, where available for release.
+Supporting summary data for Open Future Forum research reports.
 
-## Contents
+## What's included
 
-Each dataset folder corresponds to a published report and includes underlying survey data, summary tables, or methodology notes used to produce that report.
+Aggregated summary tables, high-level statistics, and methodology documentation that accompany each published report.
+
+## What's not included
+
+Raw survey responses, respondent-level data, or other underlying source data are not published here. Open Future Forum does not release raw data collected from its executive network.
 
 ## Usage
 
-Datasets are provided for transparency and citation purposes. Please cite the corresponding report when referencing this data.
+Summary data is provided for transparency and citation purposes. Please cite the corresponding report when referencing this data.
 
 ## Publisher
 

@@ -4,8 +4,8 @@ Executive AI research focused on CFOs, finance leaders, and finance functions, p
 
 ## Reports
 
-- [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
-- [CFO AI Market Map](https://openfutureforum.com/research/cfo-ai-market-map)
+- CFO AI Leverage Report — [summary](cfo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-leverage-report)
+- CFO AI Market Map — [summary](cfo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-market-map)
 
 ## About
 

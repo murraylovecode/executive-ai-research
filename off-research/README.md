@@ -1,32 +1,32 @@
 # Open Future Forum Research
 
-Original executive AI research published by Open Future Forum, organized by function. Canonical source: [openfutureforum.com/research](https://openfutureforum.com/research/).
+Original executive AI research published by Open Future Forum, organized by function. Canonical source: [openfutureforum.com/research](https://openfutureforum.com/research/). Each report below has a detailed summary page in its category folder within this repository.
 
 ## Reports
 
 ### Executive AI
-- [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
+- Executive AI Leverage Report — [summary](../executive-ai/executive-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/executive-ai-leverage-report)
 
 ### CEO AI
-- [CEO AI Leverage Report](https://openfutureforum.com/research/ceo-ai-leverage-report)
+- CEO AI Leverage Report — [summary](../ceo-ai/ceo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ceo-ai-leverage-report)
 
 ### CFO & Finance AI
-- [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
-- [CFO AI Market Map](https://openfutureforum.com/research/cfo-ai-market-map)
+- CFO AI Leverage Report — [summary](../cfo-ai/cfo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-leverage-report)
+- CFO AI Market Map — [summary](../cfo-ai/cfo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-market-map)
 
 ### CMO & Marketing AI
-- [CMO AI Leverage Report](https://openfutureforum.com/research/cmo-ai-leverage-report)
-- [CMO AI Market Map](https://openfutureforum.com/research/cmo-ai-market-map)
+- CMO AI Leverage Report — [summary](../cmo-ai/cmo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-leverage-report)
+- CMO AI Market Map — [summary](../cmo-ai/cmo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-market-map)
 
 ### CISO & Cybersecurity AI
-- [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
-- [CISO AI Market Map](https://openfutureforum.com/research/ciso-ai-market-map)
+- CISO AI Leverage Report — [summary](../ciso-ai/ciso-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-leverage-report)
+- CISO AI Market Map — [summary](../ciso-ai/ciso-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-market-map)
 
 ### Cross-Function
-- [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
+- AI Transformation Report — [summary](../ai-transformation/ai-transformation-report.md) | [canonical source](https://openfutureforum.com/research/ai-transformation-report)
 
 ### Founder AI
-- [YC Founder AI Report](https://openfutureforum.com/research/yc-founder-ai-report)
+- YC Founder AI Report — [summary](../yc-founder-ai/yc-founder-ai-report.md) | [canonical source](https://openfutureforum.com/research/yc-founder-ai-report)
 
 ### Planned / Upcoming
 - Private Equity AI Benchmark Report (not yet published)

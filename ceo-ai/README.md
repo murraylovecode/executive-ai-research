@@ -4,7 +4,7 @@ Executive AI research focused on CEOs and the top decision-making seat, publishe
 
 ## Reports
 
-- [CEO AI Leverage Report](https://openfutureforum.com/research/ceo-ai-leverage-report)
+- CEO AI Leverage Report — [summary](ceo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ceo-ai-leverage-report)
 
 ## About
 

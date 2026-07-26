@@ -33,8 +33,8 @@ This is explicitly labeled a preview edition. Quantitative findings come from an
 
 ## Citation
 
-Open Future Forum. *The Executive AI Leverage Report*, Preview Edition. July 2026. https://openfutureforum.com/research/executive-ai-leverage-report
+Open Future Forum. *The Executive AI Leverage Report*, Preview Edition. July 2026.  DOI: https://doi.org/10.5281/zenodo.21581060 https://openfutureforum.com/research/executive-ai-leverage-report
 
 ## DOI
 
-Not yet assigned.
+10.5281/zenodo.21581060 — https://doi.org/10.5281/zenodo.21581060

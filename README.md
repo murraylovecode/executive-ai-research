@@ -3,6 +3,9 @@
 [![DOI](https://zenodo.org/badge/1312253721.svg)](https://doi.org/10.5281/zenodo.21576019)
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/murraylovecode/executive-ai-research/)](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/murraylovecode/executive-ai-research)
 
+**Repository DOI:** 10.5281/zenodo.21576019
+Archived via Zenodo and Software Heritage.
+
 Executive AI Research is an open research library maintained by Open Future Forum, bringing together original OFF benchmark research and selected third-party research on enterprise AI, executive leadership, finance, cybersecurity, marketing, and private equity.
 
 All original reports are canonically published at [openfutureforum.com/research](https://openfutureforum.com/research/). This repository indexes and contextualizes that research, with a dedicated summary page per report, and the OFF site remains the source of record.
@@ -64,3 +67,15 @@ https://openfutureforum.com/research/
 ## Citation
 
 Please cite the individual report and link to its canonical page at openfutureforum.com/research/, and its corresponding DOI where available.
+
+
+## Archiving and Persistent Identifiers
+
+This research library is maintained by Open Future Forum.
+
+- Canonical research: https://openfutureforum.com/research/
+- GitHub repository: https://github.com/murraylovecode/executive-ai-research
+- Zenodo DOI: https://doi.org/10.5281/zenodo.21576019
+- Software Heritage archive: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/murraylovecode/executive-ai-research
+
+Individual Open Future Forum reports should be cited using their report-specific canonical URL and DOI where available.

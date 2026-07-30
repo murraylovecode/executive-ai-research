@@ -40,6 +40,9 @@ Open Future Forum is a global executive community founded in Silicon Valley in 2
 ### Founder AI
 - YC Founder AI Report — [summary](yc-founder-ai/yc-founder-ai-report.md) | [canonical source](https://openfutureforum.com/research/yc-founder-ai-report)
 
+- ### VC & CVC AI
+- - VC & CVC AI Investment Report — [summary](vc-cvc-ai/vc-cvc-ai-investment-report.md) | [canonical source](https://openfutureforum.com/research/vc-cvc-ai-investment-report)
+
 ### Planned / Upcoming
 - Private Equity AI Benchmark Report (not yet published)
 
@@ -54,7 +57,7 @@ Open Future Forum research draws on first-party surveys, qualitative interviews,
 ## Repository Structure
 
 - `off-research/` - original Open Future Forum reports overview
-- `executive-ai/`, `ceo-ai/`, `cfo-ai/`, `cmo-ai/`, `ciso-ai/`, `ai-transformation/`, `yc-founder-ai/`, `private-equity-ai/` - per-category reports, each with a detailed summary page
+- `executive-ai/`, `ceo-ai/`, `cfo-ai/`, `cmo-ai/`, `ciso-ai/`, `ai-transformation/`, `yc-founder-ai/`, `vc-cvc-ai/`, `private-equity-ai/` - per-category reports, each with a detailed summary page
 - `industry-research/` - summaries and links to third-party research
 - `datasets/` - aggregated summary tables and methodology notes (no raw survey data)
 

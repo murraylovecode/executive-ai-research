@@ -28,6 +28,15 @@ Original executive AI research published by Open Future Forum, organized by func
 ### Founder AI
 - YC Founder AI Report — [summary](../yc-founder-ai/yc-founder-ai-report.md) | [canonical source](https://openfutureforum.com/research/yc-founder-ai-report)
 
+- ### VC & CVC AI
+- - VC & CVC AI Investment Report — [summary](../vc-cvc-ai/vc-cvc-ai-investment-report.md) | [canonical source](https://openfutureforum.com/research/vc-cvc-ai-investment-report)
+ 
+  - ### Investor AI
+  - - Investor AI Report — [summary](../investor-ai/investor-ai-report.md) | [canonical source](https://openfutureforum.com/research/investor-ai-report)
+   
+    - ### Executive AI Statistics
+    - - Executive AI Statistics — [summary](../executive-ai-statistics/executive-ai-statistics.md) | [canonical source](https://openfutureforum.com/research/executive-ai-statistics)
+
 ### Planned / Upcoming
 - Private Equity AI Benchmark Report (not yet published)
 

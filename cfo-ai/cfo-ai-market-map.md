@@ -1,4 +1,4 @@
-# CFO AI Market Map
+—# CFO AI Market Map
 
 **Publisher:** Open Future Forum
 **Research type:** Market map / vendor landscape, paired with first-party demand data (Enterprise AI Buying & Budget Index, CFO lane)

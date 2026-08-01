@@ -18,22 +18,23 @@ The demand overlay draws on a small-base survey (40 any-mention responses on the
 ## Key Findings
 
 - Securing AI agents and their access was the clearest first-party demand signal, mentioned in 22 of 40 small-base responses — well ahead of any other security concern.
-- Data leakage into AI models and shadow AI (unapproved AI tool use) tied as the next most-cited concerns, each appearing in 10 of 40 responses.
-- Funding for AI security is split roughly evenly between having a dedicated budget line and buying case-by-case (14 of 40 any-mentions each), with 8 of 40 carving AI security spend from the existing security budget and 6 of 40 reporting no AI security spend at all.
-- The vendor landscape shows identity and non-human identity (managing AI agent credentials, tokens, and service-account access) emerging as a critical adjacent category to agent security, even though the survey did not ask an identity-specific question directly.
-- Several vendors span multiple categories (e.g., agent security platforms overlapping with identity management), reflecting how new agentic AI risk cuts across traditional security tooling boundaries.
-- The report explicitly separates "strong" demand signals (agent/access security) from "thin and indirect" ones (cloud exposure, AppSec, GRC), giving vendors and buyers a calibrated read on where first-party proof exists versus where it must still be established.
-
-## Related OFF Research
-
-- [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
-- [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
-- [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
-
-## Citation
-
-Open Future Forum. *The CISO AI Market Map*, Edition 1. July 2026. https://openfutureforum.com/research/ciso-ai-market-map
-
-## DOI
-
-Not yet assigned.
+- - Data leakage into AI models and shadow AI (unapproved AI tool use) tied as the next most-cited concerns, each appearing in 10 of 40 responses.
+  - - Funding for AI security is split roughly evenly between having a dedicated budget line and buying case-by-case (14 of 40 any-mentions each), with 8 of 40 carving AI security spend from the existing security budget and 6 of 40 reporting no AI security spend at all.
+    - - The vendor landscape shows identity and non-human identity (managing AI agent credentials, tokens, and service-account access) emerging as a critical adjacent category to agent security, even though the survey did not ask an identity-specific question directly.
+      - - Several vendors span multiple categories (e.g., agent security platforms overlapping with identity management), reflecting how new agentic AI risk cuts across traditional security tooling boundaries.
+        - - The report explicitly separates "strong" demand signals (agent/access security) from "thin and indirect" ones (cloud exposure, AppSec, GRC), giving vendors and buyers a calibrated read on where first-party proof exists versus where it must still be established.
+         
+          - ## Related OFF Research
+         
+          - - [Executive State of AI 2026](https://openfutureforum.com/research/executive-state-of-ai)
+            - - [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
+              - - [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
+                - - [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
+                 
+                  - ## Citation
+                 
+                  - Open Future Forum. *The CISO AI Market Map*, Edition 1. July 2026. https://openfutureforum.com/research/ciso-ai-market-map
+                 
+                  - ## DOI
+                 
+                  - Not yet assigned.

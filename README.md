@@ -19,75 +19,75 @@ Open Future Forum is a global executive community founded in Silicon Valley in 2
 ### Executive State of AI
 - Executive State of AI 2026 (Annual Flagship) — [summary](executive-state-of-ai/executive-state-of-ai-report.md) | [canonical source](https://openfutureforum.com/research/executive-state-of-ai)
 
-- ### Executive AI
-- - Executive AI Leverage Report — [summary](executive-ai/executive-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/executive-ai-leverage-report)
- 
-  - ### CEO AI
-  - - CEO AI Leverage Report — [summary](ceo-ai/ceo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ceo-ai-leverage-report)
-   
-    - ### CFO & Finance AI
-    - - CFO AI Leverage Report — [summary](cfo-ai/cfo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-leverage-report)
-      - - CFO AI Market Map — [summary](cfo-ai/cfo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-market-map)
-       
-        - ### CMO & Marketing AI
-        - - CMO AI Leverage Report — [summary](cmo-ai/cmo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-leverage-report)
-          - - CMO AI Market Map — [summary](cmo-ai/cmo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-market-map)
-           
-            - ### CISO & Cybersecurity AI
-            - - CISO AI Leverage Report — [summary](ciso-ai/ciso-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-leverage-report)
-              - - CISO AI Market Map — [summary](ciso-ai/ciso-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-market-map)
-               
-                - ### Cross-Function
-                - - AI Transformation Report — [summary](ai-transformation/ai-transformation-report.md) | [canonical source](https://openfutureforum.com/research/ai-transformation-report)
-                 
-                  - ### Founder AI
-                  - - YC Founder AI Report — [summary](yc-founder-ai/yc-founder-ai-report.md) | [canonical source](https://openfutureforum.com/research/yc-founder-ai-report)
-                   
-                    - ### VC & CVC AI
-                    - - VC & CVC AI Investment Report — [summary](vc-cvc-ai/vc-cvc-ai-investment-report.md) | [canonical source](https://openfutureforum.com/research/vc-cvc-ai-investment-report)
-                     
-                      - ### Investor AI
-                      - - Investor AI Report — [summary](investor-ai/investor-ai-report.md) | [canonical source](https://openfutureforum.com/research/investor-ai-report)
-                       
-                        - ### Executive AI Statistics
-                        - - Executive AI Statistics — [summary](executive-ai-statistics/executive-ai-statistics.md) | [canonical source](https://openfutureforum.com/research/executive-ai-statistics)
-                         
-                          - ### Planned / Upcoming
-                          - - Private Equity AI Benchmark Report (not yet published)
-                           
-                            - ## Selected Industry Research
-                           
-                            - Curated summaries and links to third-party research relevant to executive AI adoption, organized by topic. See `industry-research/` for details and links to original sources.
-                           
-                            - ## Methodology
-                           
-                            - Open Future Forum research draws on first-party surveys, qualitative interviews, executive discussions, and other data collected from its executive network. Full methodology notes are included with each report. Raw survey and respondent-level data is not published; only aggregated findings and summary statistics are shared.
-                           
-                            - ## Repository Structure
-                           
-                            - - `executive-state-of-ai/` - annual flagship report overview
-                              - - `off-research/` - original Open Future Forum reports overview
-                                - - `executive-ai/`, `ceo-ai/`, `cfo-ai/`, `cmo-ai/`, `ciso-ai/`, `ai-transformation/`, `yc-founder-ai/`, `vc-cvc-ai/`, `private-equity-ai/`, `investor-ai/`, `executive-ai-statistics/` - per-category reports, each with a detailed summary page
-                                  - - `industry-research/` - summaries and links to third-party research
-                                    - - `datasets/` - aggregated summary tables and methodology notes (no raw survey data)
-                                     
-                                      - ## Publisher
-                                     
-                                      - Open Future Forum
-                                      - https://openfutureforum.com
-                                      - https://openfutureforum.com/research/
-                                     
-                                      - ## Citation
-                                     
-                                      - Please cite the individual report and link to its canonical page at openfutureforum.com/research/, and its corresponding DOI where available.
-                                     
-                                      - ## Archiving and Persistent Identifiers
-                                     
-                                      - This research library is maintained by Open Future Forum.
-                                     
-                                      - - Canonical research: https://openfutureforum.com/research/
-                                        - - GitHub repository: https://github.com/murraylovecode/executive-ai-research
-                                          - - Zenodo DOI: https://doi.org/10.5281/zenodo.21576019
-                                            - - Software Heritage archive: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/murraylovecode/executive-ai-research
-                                             
-                                              - Individual Open Future Forum reports should be cited using their report-specific canonical URL and DOI where available.
+### Executive AI
+- Executive AI Leverage Report — [summary](executive-ai/executive-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/executive-ai-leverage-report)
+
+### CEO AI
+- CEO AI Leverage Report — [summary](ceo-ai/ceo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ceo-ai-leverage-report)
+
+### CFO & Finance AI
+- CFO AI Leverage Report — [summary](cfo-ai/cfo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-leverage-report)
+- CFO AI Market Map — [summary](cfo-ai/cfo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cfo-ai-market-map)
+
+### CMO & Marketing AI
+- CMO AI Leverage Report — [summary](cmo-ai/cmo-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-leverage-report)
+- CMO AI Market Map — [summary](cmo-ai/cmo-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/cmo-ai-market-map)
+
+### CISO & Cybersecurity AI
+- CISO AI Leverage Report — [summary](ciso-ai/ciso-ai-leverage-report.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-leverage-report)
+- CISO AI Market Map — [summary](ciso-ai/ciso-ai-market-map.md) | [canonical source](https://openfutureforum.com/research/ciso-ai-market-map)
+
+### Cross-Function
+- AI Transformation Report — [summary](ai-transformation/ai-transformation-report.md) | [canonical source](https://openfutureforum.com/research/ai-transformation-report)
+
+### Founder AI
+- YC Founder AI Report — [summary](yc-founder-ai/yc-founder-ai-report.md) | [canonical source](https://openfutureforum.com/research/yc-founder-ai-report)
+
+### VC & CVC AI
+- VC & CVC AI Investment Report — [summary](vc-cvc-ai/vc-cvc-ai-investment-report.md) | [canonical source](https://openfutureforum.com/research/vc-cvc-ai-investment-report)
+
+### Investor AI
+- Investor AI Report — [summary](investor-ai/investor-ai-report.md) | [canonical source](https://openfutureforum.com/research/investor-ai-report)
+
+### Executive AI Statistics
+- Executive AI Statistics — [summary](executive-ai-statistics/executive-ai-statistics.md) | [canonical source](https://openfutureforum.com/research/executive-ai-statistics)
+
+### Planned / Upcoming
+- Private Equity AI Benchmark Report (not yet published)
+
+## Selected Industry Research
+
+Curated summaries and links to third-party research relevant to executive AI adoption, organized by topic. See `industry-research/` for details and links to original sources.
+
+## Methodology
+
+Open Future Forum research draws on first-party surveys, qualitative interviews, executive discussions, and other data collected from its executive network. Full methodology notes are included with each report. Raw survey and respondent-level data is not published; only aggregated findings and summary statistics are shared.
+
+## Repository Structure
+
+- `executive-state-of-ai/` - annual flagship report overview
+- `off-research/` - original Open Future Forum reports overview
+- `executive-ai/`, `ceo-ai/`, `cfo-ai/`, `cmo-ai/`, `ciso-ai/`, `ai-transformation/`, `yc-founder-ai/`, `vc-cvc-ai/`, `private-equity-ai/`, `investor-ai/`, `executive-ai-statistics/` - per-category reports, each with a detailed summary page
+- `industry-research/` - summaries and links to third-party research
+- `datasets/` - aggregated summary tables and methodology notes (no raw survey data)
+
+## Publisher
+
+Open Future Forum
+https://openfutureforum.com
+https://openfutureforum.com/research/
+
+## Citation
+
+Please cite the individual report and link to its canonical page at openfutureforum.com/research/, and its corresponding DOI where available.
+
+## Archiving and Persistent Identifiers
+
+This research library is maintained by Open Future Forum.
+
+- Canonical research: https://openfutureforum.com/research/
+- GitHub repository: https://github.com/murraylovecode/executive-ai-research
+- Zenodo DOI: https://doi.org/10.5281/zenodo.21576019
+- Software Heritage archive: https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/murraylovecode/executive-ai-research
+
+Individual Open Future Forum reports should be cited using their report-specific canonical URL and DOI where available.

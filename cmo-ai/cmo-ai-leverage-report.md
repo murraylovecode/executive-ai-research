@@ -18,23 +18,24 @@ First-party figures are drawn from Open Future Forum event registration records 
 ## Key Findings
 
 - Marketing receives the largest functional share of enterprise AI budgets of any operating function (over half, per MIT), while overall marketing budgets remain roughly flat at about 7.8% of company revenue (Gartner 2026 CMO Spend Survey).
-- CMOs allocate around 15.3% of marketing budget to AI on average, rising to 21.3% among the most AI-ready organizations, yet only 30% of surveyed marketing leaders report mature AI readiness.
-- In Open Future Forum's own agentic go-to-market session, 21 of 25 respondents who answered were already past the exploration stage with AI agents, including 9 already running agents in production.
-- In an early read (base of 7), creating content faster and understanding customers better tied as the top perceived benefits of AI in marketing, with 2 of 7 also citing headcount-style leverage (doing the work of more people).
-- Of 16 AI founders surveyed about who owns the AI buying decision at companies they sell into, none named the CMO — buyers were instead identified as CIO/CTO or business-unit leaders, even as founders increasingly price on usage/outcomes rather than per seat.
-- The report highlights a "seat gap": marketing leaders are shifting budget toward consumption/usage-based vendor pricing (56% of CMOs, per Gartner) at the same time founders are pricing on outcomes — a convergence the report argues will eventually pull the CMO seat into the AI buying conversation even though neither side currently names the other.
-- Labor's share of the marketing budget rose year-over-year (from 21.9% to 24.5%, per Gartner), suggesting AI value in marketing is still running largely through people rather than replacing them.
-
-## Related OFF Research
-
-- [CMO AI Market Map](https://openfutureforum.com/research/cmo-ai-market-map)
-- [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
-- [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
-
-## Citation
-
-Open Future Forum. *The CMO AI Leverage Report*, Edition 1. July 2026. https://openfutureforum.com/research/cmo-ai-leverage-report
-
-## DOI
-
-Not yet assigned.
+- - CMOs allocate around 15.3% of marketing budget to AI on average, rising to 21.3% among the most AI-ready organizations, yet only 30% of surveyed marketing leaders report mature AI readiness.
+  - - In Open Future Forum's own agentic go-to-market session, 21 of 25 respondents who answered were already past the exploration stage with AI agents, including 9 already running agents in production.
+    - - In an early read (base of 7), creating content faster and understanding customers better tied as the top perceived benefits of AI in marketing, with 2 of 7 also citing headcount-style leverage (doing the work of more people).
+      - - Of 16 AI founders surveyed about who owns the AI buying decision at companies they sell into, none named the CMO — buyers were instead identified as CIO/CTO or business-unit leaders, even as founders increasingly price on usage/outcomes rather than per seat.
+        - - The report highlights a "seat gap": marketing leaders are shifting budget toward consumption/usage-based vendor pricing (56% of CMOs, per Gartner) at the same time founders are pricing on outcomes — a convergence the report argues will eventually pull the CMO seat into the AI buying conversation even though neither side currently names the other.
+          - - Labor's share of the marketing budget rose year-over-year (from 21.9% to 24.5%, per Gartner), suggesting AI value in marketing is still running largely through people rather than replacing them.
+           
+            - ## Related OFF Research
+           
+            - - [Executive State of AI 2026](https://openfutureforum.com/research/executive-state-of-ai)
+              - - [CMO AI Market Map](https://openfutureforum.com/research/cmo-ai-market-map)
+                - - [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
+                  - - [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
+                   
+                    - ## Citation
+                   
+                    - Open Future Forum. *The CMO AI Leverage Report*, Edition 1. July 2026. https://openfutureforum.com/research/cmo-ai-leverage-report
+                   
+                    - ## DOI
+                   
+                    - Not yet assigned.

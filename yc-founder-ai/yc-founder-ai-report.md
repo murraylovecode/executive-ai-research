@@ -27,6 +27,7 @@ First-party data comes from two Open Future Forum YC-founder events in 2026, dra
 
 ## Related OFF Research
 
+- [Executive State of AI 2026](https://openfutureforum.com/research/executive-state-of-ai)
 - [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
 - [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
 - [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)

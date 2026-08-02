@@ -27,6 +27,7 @@ First-party data is drawn from Open Future Forum event records across twelve eve
 
 ## Related OFF Research
 
+- [Executive State of AI 2026](https://openfutureforum.com/research/executive-state-of-ai)
 - [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
 - [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
 - [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)

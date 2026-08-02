@@ -29,11 +29,11 @@ First-party reads come from an application-stage instrument embedded in Open Fut
 
 ## Related OFF Research
 
-- CEO AI Leverage Report
-- - YC Founder AI Report
-  - - CFO AI Leverage Report
-   
-    - ## Citation
-   
-    - Open Future Forum. *The Investor AI Report*, Edition 1. August 2026. https://openfutureforum.com/research/investor-ai-report
-    - 
+- [Executive State of AI 2026](https://openfutureforum.com/research/executive-state-of-ai)
+- [CEO AI Leverage Report](https://openfutureforum.com/research/ceo-ai-leverage-report)
+- [YC Founder AI Report](https://openfutureforum.com/research/yc-founder-ai-report)
+- [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
+
+## Citation
+
+Open Future Forum. *The Investor AI Report*, Edition 1. August 2026. https://openfutureforum.com/research/investor-ai-report

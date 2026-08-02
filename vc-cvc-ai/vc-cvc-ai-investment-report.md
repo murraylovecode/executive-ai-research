@@ -33,10 +33,11 @@ First-party reads come from an application-stage instrument fielded across Open 
 
 ## Related OFF Research
 
-- Executive AI Leverage Report
-- - CFO AI Leverage Report
-  - - AI Transformation Report
-   
-    - ## Citation
-   
-    - Open Future Forum. *The VC & CVC AI Investment Report*, Edition 1. July 2026. https://openfutureforum.com/research/vc-cvc-ai-investment-report
+- [Executive State of AI 2026](https://openfutureforum.com/research/executive-state-of-ai)
+- [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
+- [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
+- [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
+
+## Citation
+
+Open Future Forum. *The VC & CVC AI Investment Report*, Edition 1. July 2026. https://openfutureforum.com/research/vc-cvc-ai-investment-report

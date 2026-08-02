@@ -25,6 +25,7 @@ The demand overlay draws on 55 application-stage responses from an Open Future F
 
 ## Related OFF Research
 
+- [Executive State of AI 2026](https://openfutureforum.com/research/executive-state-of-ai)
 - [CMO AI Leverage Report](https://openfutureforum.com/research/cmo-ai-leverage-report)
 - [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
 - [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)

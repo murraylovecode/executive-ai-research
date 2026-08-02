@@ -13,28 +13,29 @@ Executive AI Statistics compiles every figure published across the August 2026 e
 ## Selected figures
 
 - 34% of finance-room respondents report no clear AI budget yet, up from 23% in early July (source: CFO AI Leverage Report).
-- - The CEO is the most-named signer of AI purchases at 44% of late-July operator answers, with the CFO second at 33% (source: CEO AI Leverage Report).
-  - - 81% of marketing and growth respondents are past exploring agentic AI, 187 of 230 (source: CMO AI Leverage Report).
-    - - 58% of senior security leaders name securing AI agents and their access as their top AI security problem (source: CISO AI Leverage Report).
-      - - Usage-based pricing leads at 43% of 148 AI founders surveyed (source: YC Founder AI Report).
-        - - 51% of investors name the CEO as the seat that increasingly owns AI buying across their portfolios (source: Investor AI Report).
-          - - The August 2026 dataset covers 6,055 unique registrations across 15 events, deduplicated to 5,311 unique guests (source: Executive AI Leverage Report).
-           
-            - ## Methodology & Sample
-           
-            - Each statistic carries its own response base from its source report; multi-select figures use the any-mention convention and can sum past 100%. Bases under 40 are directional. The underlying dataset is archived with a permanent DOI (10.5281/zenodo.21576019).
-           
-            - ## Related OFF Research
-           
-            - - Executive AI Leverage Report
-              - - CEO AI Leverage Report
-                - - CFO AI Leverage Report
-                  - - CMO AI Leverage Report
-                    - - CISO AI Leverage Report
-                      - - YC Founder AI Report
-                        - - Investor AI Report
-                         
-                          - ## Citation
-                         
-                          - Open Future Forum. *Executive AI Statistics*, August 2026. https://openfutureforum.com/research/executive-ai-statistics
-                          - 
+- The CEO is the most-named signer of AI purchases at 44% of late-July operator answers, with the CFO second at 33% (source: CEO AI Leverage Report).
+- 81% of marketing and growth respondents are past exploring agentic AI, 187 of 230 (source: CMO AI Leverage Report).
+- 58% of senior security leaders name securing AI agents and their access as their top AI security problem (source: CISO AI Leverage Report).
+- Usage-based pricing leads at 43% of 148 AI founders surveyed (source: YC Founder AI Report).
+- 51% of investors name the CEO as the seat that increasingly owns AI buying across their portfolios (source: Investor AI Report).
+
+The August 2026 dataset covers 6,055 unique registrations across 15 events, deduplicated to 5,311 unique guests (source: Executive AI Leverage Report).
+
+## Methodology & Sample
+
+Each statistic carries its own response base from its source report; multi-select figures use the any-mention convention and can sum past 100%. Bases under 40 are directional. The underlying dataset is archived with a permanent DOI (10.5281/zenodo.21576019).
+
+## Related OFF Research
+
+- [Executive State of AI 2026](https://openfutureforum.com/research/executive-state-of-ai)
+- [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
+- [CEO AI Leverage Report](https://openfutureforum.com/research/ceo-ai-leverage-report)
+- [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
+- [CMO AI Leverage Report](https://openfutureforum.com/research/cmo-ai-leverage-report)
+- [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
+- [YC Founder AI Report](https://openfutureforum.com/research/yc-founder-ai-report)
+- [Investor AI Report](https://openfutureforum.com/research/investor-ai-report)
+
+## Citation
+
+Open Future Forum. *Executive AI Statistics*, August 2026. https://openfutureforum.com/research/executive-ai-statistics

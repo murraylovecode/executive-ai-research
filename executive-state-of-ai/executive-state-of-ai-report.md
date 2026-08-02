@@ -26,26 +26,26 @@ First-party figures come from application-stage instruments fielded across 15 Op
 ## Citable facts
 
 - 84% of CEO respondents name the CEO as the AI signer; technology respondents put the CEO's share at 24% (Open Future Forum, Executive State of AI 2026).
-- - The CEO is the most-named signer of AI purchases at 44% of late-July operator answers (base 115) (Open Future Forum, August 2026).
-  - - 34% of finance-room respondents report no clear AI budget yet, up from 23% in early July 2026 (Open Future Forum).
-    - - 51% of 245 investor respondents say the CEO increasingly owns AI buying across their portfolios (Open Future Forum, August 2026).
-      - - The August 2026 dataset covers 6,055 unique registrations across 15 events, deduplicated to 5,311 unique guests (Open Future Forum).
-       
-        - ## Related OFF Research
-       
-        - - [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
-          - - [CEO AI Leverage Report](https://openfutureforum.com/research/ceo-ai-leverage-report)
-            - - [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
-              - - [CMO AI Leverage Report](https://openfutureforum.com/research/cmo-ai-leverage-report)
-                - - [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
-                  - - [YC Founder AI Report](https://openfutureforum.com/research/yc-founder-ai-report)
-                    - - [Investor AI Report](https://openfutureforum.com/research/investor-ai-report)
-                      - - [VC & CVC AI Investment Report](https://openfutureforum.com/research/vc-cvc-ai-investment-report)
-                       
-                        - ## Citation
-                       
-                        - Newlands, M. (2026). *The Executive State of AI 2026*, Edition 1. Open Future Forum, August 2026. https://openfutureforum.com/research/executive-state-of-ai
-                       
-                        - ## DOI
-                       
-                        - Not yet assigned.
+- The CEO is the most-named signer of AI purchases at 44% of late-July operator answers (base 115) (Open Future Forum, August 2026).
+- 34% of finance-room respondents report no clear AI budget yet, up from 23% in early July 2026 (Open Future Forum).
+- 51% of 245 investor respondents say the CEO increasingly owns AI buying across their portfolios (Open Future Forum, August 2026).
+- The August 2026 dataset covers 6,055 unique registrations across 15 events, deduplicated to 5,311 unique guests (Open Future Forum).
+
+## Related OFF Research
+
+- [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
+- [CEO AI Leverage Report](https://openfutureforum.com/research/ceo-ai-leverage-report)
+- [CFO AI Leverage Report](https://openfutureforum.com/research/cfo-ai-leverage-report)
+- [CMO AI Leverage Report](https://openfutureforum.com/research/cmo-ai-leverage-report)
+- [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
+- [YC Founder AI Report](https://openfutureforum.com/research/yc-founder-ai-report)
+- [Investor AI Report](https://openfutureforum.com/research/investor-ai-report)
+- [VC & CVC AI Investment Report](https://openfutureforum.com/research/vc-cvc-ai-investment-report)
+
+## Citation
+
+Newlands, M. (2026). *The Executive State of AI 2026*, Edition 1. Open Future Forum, August 2026. https://openfutureforum.com/research/executive-state-of-ai
+
+## DOI
+
+Not yet assigned.

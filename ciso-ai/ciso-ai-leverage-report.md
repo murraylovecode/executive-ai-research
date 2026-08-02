@@ -1,4 +1,4 @@
-—————# CISO AI Leverage Report
+# CISO AI Leverage Report
 
 **Publisher:** Open Future Forum
 **Research type:** Executive benchmark report (operator-research)
@@ -27,6 +27,7 @@ First-party figures come from Open Future Forum's CISO Roundtable series (an inv
 
 ## Related OFF Research
 
+- [Executive State of AI 2026](https://openfutureforum.com/research/executive-state-of-ai)
 - [CISO AI Market Map](https://openfutureforum.com/research/ciso-ai-market-map)
 - [Executive AI Leverage Report](https://openfutureforum.com/research/executive-ai-leverage-report)
 - [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)

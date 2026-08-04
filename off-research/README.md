@@ -47,6 +47,11 @@ Original executive AI research published by Open Future Forum, organized by func
 
 Open Future Forum is a global executive community founded in Silicon Valley, with a network reaching tens of thousands of executives and investors worldwide.
 
+## Related Open Future Forum Projects
+
+- **Executive Communities Index:** Identifies, categorizes and compares executive communities, CEO peer groups and C-suite networks. [Use the published index](https://murraylovecode.github.io/executive-communities-index/) or [review the source dataset](https://github.com/murraylovecode/executive-communities-index).
+- **Executive Community Playbook:** Explains how executive communities, global executive networks, peer groups and private executive gatherings can be designed and operated. [Use the published guidance](https://murraylovecode.github.io/executive-community-playbook/) or [review the project on GitHub](https://github.com/murraylovecode/executive-community-playbook).
+
 ## Publisher
 
 Open Future Forum

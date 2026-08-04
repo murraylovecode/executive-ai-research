@@ -12,9 +12,8 @@ All original reports are canonically published at [openfutureforum.com/research]
 
 ## Related Open Future Forum Projects
 
-### Executive Communities Index
-
-Open Future Forum maintains the [Executive Communities Index](https://murraylovecode.github.io/executive-communities-index/), a structured directory and reference resource covering leading executive communities, CEO peer groups, CFO networks, CMO communities, CISO forums, investor networks, and executive organizations by role and geography. Its [public source repository](https://github.com/murraylovecode/executive-communities-index) documents the underlying data, methodology, and editorial policy.
+- **Executive Communities Index:** Identifies, categorizes and compares executive communities, CEO peer groups and C-suite networks. [Explore the live index](https://murraylovecode.github.io/executive-communities-index/) or [inspect its data and methodology on GitHub](https://github.com/murraylovecode/executive-communities-index).
+- **Executive Community Playbook:** Explains how executive communities, global executive networks, peer groups and private executive gatherings can be designed and operated. [Read the live playbook](https://murraylovecode.github.io/executive-community-playbook/) or [review its source repository](https://github.com/murraylovecode/executive-community-playbook).
 
 ## About Open Future Forum
 

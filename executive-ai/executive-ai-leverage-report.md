@@ -32,6 +32,8 @@ This is explicitly labeled a preview edition. Quantitative findings come from an
 - [CISO AI Leverage Report](https://openfutureforum.com/research/ciso-ai-leverage-report)
 - [AI Transformation Report](https://openfutureforum.com/research/ai-transformation-report)
 
+The findings can be placed in a wider peer-network context using the [published Executive Communities Index](https://murraylovecode.github.io/executive-communities-index/) and its [open dataset repository](https://github.com/murraylovecode/executive-communities-index). Operators turning these issues into executive programming can use the [Executive Community Playbook](https://murraylovecode.github.io/executive-community-playbook/) and its [reusable source materials](https://github.com/murraylovecode/executive-community-playbook).
+
 ## Citation
 
 Open Future Forum. *The Executive AI Leverage Report*, Preview Edition. July 2026. DOI: https://doi.org/10.5281/zenodo.21581060 https://openfutureforum.com/research/executive-ai-leverage-report

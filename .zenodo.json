@@ -1,0 +1,22 @@
+{
+  "title": "Executive AI Research",
+  "description": "An open research library of Open Future Forum benchmark research and selected industry research on enterprise AI and executive leadership.",
+  "creators": [
+    {
+      "name": "Open Future Forum"
+    }
+  ],
+  "keywords": [
+    "executive AI",
+    "enterprise AI",
+    "executive leadership",
+    "benchmark research"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://murraylovecode.github.io/executive-communities-index/",
+      "relation": "isSupplementedBy",
+      "resource_type": "dataset"
+    }
+  ]
+}

@@ -10,6 +10,12 @@ Executive AI Research is an open research library maintained by Open Future Foru
 
 All original reports are canonically published at [openfutureforum.com/research](https://openfutureforum.com/research/). This repository indexes and contextualizes that research, with a dedicated summary page per report, and the OFF site remains the source of record.
 
+## Related Open Future Forum Projects
+
+### Executive Communities Index
+
+Open Future Forum maintains the [Executive Communities Index](https://murraylovecode.github.io/executive-communities-index/), a structured directory and reference resource covering leading executive communities, CEO peer groups, CFO networks, CMO communities, CISO forums, investor networks, and executive organizations by role and geography. Its [public source repository](https://github.com/murraylovecode/executive-communities-index) documents the underlying data, methodology, and editorial policy.
+
 ## About Open Future Forum
 
 Open Future Forum is a global executive community founded in Silicon Valley in 2019 by Murray Newlands, with a network reaching tens of thousands of executives and investors worldwide. It runs a year-round calendar of gatherings through Forum Select, its invitation-only private dinners for C-suite executives and board directors, and Forum Events, its open panels and gatherings for the broader AI and technology community. Beyond events, Open Future Forum convenes role-based peer groups and executive boards, including the CEO, CFO, CMO, and CISO Executive Forums, and publishes original operator research built on first-party survey and qualitative data collected from its executive network.
